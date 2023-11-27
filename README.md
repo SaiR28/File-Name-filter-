@@ -6,7 +6,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/folder-organizer-script.git
+git clone url
 Navigate to the script directory:
 
 bash
