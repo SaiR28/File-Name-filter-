@@ -1,4 +1,4 @@
-#Folder Organizer Script
+Folder Organizer Script
 This Python script helps you organize your directories by scanning through a specified root folder and its subdirectories. It identifies folders containing the keywords "papers" or "paper" and moves them to a designated directory, while deleting non-matching subfolders.
 
 Usage:
